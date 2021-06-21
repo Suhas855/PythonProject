@@ -1,0 +1,6 @@
+S = input("Please enter data: ")
+print(S.isalnum())
+print(S.isalpha())
+print(S.isdigit())
+print(S.islower())
+print(S.isupper())
